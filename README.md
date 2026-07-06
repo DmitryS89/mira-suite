@@ -1,18 +1,14 @@
-# MIRA Suite website
+# MIRA Suite 25
 
-Static concept website for **MIRA Suite 25** — a premium modular hotel suite for hotels, glamping sites, rural retreats, campings and fincas.
+Static landing page for **MIRA Suite 25** — a premium modular hospitality suite concept for hotels, glamping sites, rural retreats, campings and fincas in Spain.
 
 ## Files
 
-- `index.html` — page structure and content
-- `styles.css` — visual design, responsive layout, CSS-rendered module visuals and animations
-- `script.js` — language switcher, scroll reveals, package tabs and revenue estimate calculator
-- `assets/favicon.svg` — simple brand favicon
+- `index.html`
+- `styles.css`
+- `script.js`
+- `assets/favicon.svg`
 
-## How to preview
+## Deploy
 
-Open `index.html` in a browser.
-
-## Notes
-
-This is a concept / MVP website. Contact details are placeholders. Before a commercial launch, verify naming/trademark availability and replace CSS concept visuals with final renders or photography.
+Use GitHub + Vercel as a static site. No build command is required.
